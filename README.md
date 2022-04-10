@@ -1,3 +1,3 @@
 # Assets
 
-Este repositorio tiene como objetivo guardar las imágenes de todos los proyectos de **WeBuildWebz**.
+Este repositorio tiene como objetivo guardar los assets de todos los proyectos de **WeBuildWebz**.
